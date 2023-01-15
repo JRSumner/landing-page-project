@@ -32,6 +32,11 @@ body {
 
     list-style: none;
 }
+
+.header-list, a {
+    color: inherit;
+    text-decoration: none;
+}
 /* Header styles */
 
 /* Container one styles */
